@@ -42,7 +42,7 @@ html {
 }
 
 .player-turn {
-    background-color: rgba(255, 99, 71, 0.116);
+    background-color:red;
     height: 20em;
 }
 
