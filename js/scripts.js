@@ -1,4 +1,4 @@
-/ Back End Section
+// Back End Section
 var num = 0,
     newMark = 0,
     playerDetails = [],

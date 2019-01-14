@@ -31,7 +31,7 @@ The rules of the game are:
 ## fell free to contact me on :
 rosemazimpaka2@gmail.com tel:+250786950337
 
-whatsapp : +250786950337 Licence copy right moringaschool@(c)2018
+whatsapp : +250786950337 Licence copy right moringaschool@(c)2019
 
 
 
