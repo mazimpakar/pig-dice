@@ -1,47 +1,37 @@
-# Pig-Dice
-#### Independent Project  
-#### By **Mazimpaka M Rose**
-
+# Pig Dice Game
+## Author: Mazimpaka M Rose
 ## Description
-The Pig-Dice game is a fun game based on two players rolling a dice.
+A simple dice game with two players. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold". The player who first scores 100 or more points wins.
 
-A player rolls the die until either:
+## set up instruction
+You would need the following to access the website
 
-    1. A one is rolled
-    2. The player chooses to hold i.e. stop rolling
+Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), 
+* A web browser(Chrome is most recommendable)
+* To view the website click on this link 
 
-When a one is rolled, accumulated points are discarded and the other player takes over the dice.
 
-When Hold is pressed, the accumulated points are added to the player's final Score.
+## BDD
+This is a simple dice game where two players have the chance to roll the dice to try and achieve a score of 100. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
 
-The other player then takes the die over.
+The rules of the game are:
 
-## Specifications
-The web application will request the names of two users.
+* When a player rolls a 1, their total score reverts to 0 and it becomes the next player's turn.
+* When the player rolls a 2 - 6, the score is added to their turn total and they can continue to play
+* When the player chooses to "hold", their turn total is added to their total score, and it becomes the next player's turn.
+* The player who first scores 100 or more points wins.
 
-The two players will proceed to roll the dice, by generating a random number from 1 to 6.
 
-If the output is not a 1, a player will continue to accumulate points and can hold in his discretion to add up to his/her final tally.
+## technologies used
+* HTML
+* CSS
+* Bootstrap
+* JQuery
+* Javascript
+## fell free to contact me on :
+rosemazimpaka2@gmail.com tel:+250786950337
 
-An output of one results in a zero of accumulated points. 
+whatsapp : +250786950337 Licence copy right moringaschool@(c)2018
 
-### The first player to get 100 is the Winner!
 
-## Preview
-**[Click here](https://mazimpakar.github.io/Pig-Dice)** to see the live site.
 
-## Known Bugs
-No bugs so far. If found, email me at developer.rosemazimpak2@gmail.com
-
-## Technologies Used
-    1. HTML
-    2. Bootstrap
-    3. Animate
-    4. js
-    5. jQuery
-
-## Support and contact details
-Contact me on developer.waweru@gmail.com for any comments, reviews or advice.
-
-### License
-Copyright (c) **Mazimpaka M Rose**
