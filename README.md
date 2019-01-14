@@ -31,7 +31,7 @@ An output of one results in a zero of accumulated points.
 **[Click here](https://mazimpakar.github.io/Pig-Dice)** to see the live site.
 
 ## Known Bugs
-No bugs so far. If found, email me at developer.waweru@gmail.com
+No bugs so far. If found, email me at developer.rosemazimpak2@gmail.com
 
 ## Technologies Used
     1. HTML
