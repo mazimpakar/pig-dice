@@ -15,7 +15,7 @@ Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either w
 
 ## BDD
 This is a simple dice game where two players have the chance to roll the dice to try and achieve a score of 100. Each player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold".
-
+Link to site
 The rules of the game are:
 
 * When a player rolls a 1, their total score reverts to 0 and it becomes the next player's turn.
