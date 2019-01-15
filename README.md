@@ -1,5 +1,5 @@
 
-#Project Name
+## Project Name
 # Pig Dice Game
 ## Author: Mazimpaka M Rose
 ## Description
